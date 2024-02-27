@@ -1,7 +1,7 @@
 ---
 
 # The Art of Prompt Engineering
-
+![Prompt Engineering]([https://example.com/path/to/image](https://media.licdn.com/dms/image/D4D12AQGENqjZquyeYw/article-cover_image-shrink_720_1280/0/1695291902514?e=2147483647&v=beta&t=lM_zjsFP6nwKU0sDI_vV7YZdKgvE_qhjweJgcoZG2DE))
 ## Introduction
 
 Welcome to "The Art of Prompt Engineering" repository! This project is a culmination of a mentorship assignment completed as part of the IBM Advanced AI @Infinite Learning course. The focus of this project is on exploring effective techniques for prompt engineering using Langchain.
@@ -17,18 +17,19 @@ Welcome to "The Art of Prompt Engineering" repository! This project is a culmina
 This repository contains the materials and code developed during the mentorship program. The goal is to dive into the realm of prompt engineering and understand how it can be utilized effectively in various natural language processing tasks.
 
 ## Tech Stack
+- **Python**: Primary programming language
+- **TensorFlow, PyTorch**: Deep learning frameworks for model training
+- **Jupyter Notebooks, GitHub**: Development and version control
+- **GPT-3.5 Turbo**: Language model used for experimentation
+- **Docker**: Containerization for reproducible environments
+- **NLP (Natural Language Processing)**: Techniques for processing and understanding human language
+- **Prompt Engineering Techniques**: Strategies for crafting effective prompts to guide model behavior
 
-- Python
-- HTML
-- CSS
-- JavaScript
-
-## Folder Structure
-
-- **code:** Contains Python scripts and Jupyter Notebooks related to prompt engineering techniques.
-- **data:** Data files used in the project, if applicable.
-- **docs:** Documentation files, including any reports or presentations.
-- **web:** Web development files for any front-end or interactive components.
+## Repository Structure
+- **`notebooks/`**: Contains Jupyter notebooks for experimentation and analysis.
+- **`scripts/`**: Additional scripts used in the project.
+- **`data/`**: Dataset files or sample data used in experiments.
+- **`models/`**: Pre-trained models or model checkpoints.
 
 ## Usage
 
@@ -45,3 +46,6 @@ For any inquiries or questions related to this project, please reach out to:
 
 
 ---
+
+
+
