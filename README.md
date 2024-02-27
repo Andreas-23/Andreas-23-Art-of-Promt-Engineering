@@ -8,7 +8,8 @@ Welcome to "The Art of Prompt Engineering" repository! This project is a culmina
 
 ## Author and Mentor
 
-- **Author:** Andreas M Simanullang
+- **Author:** Cognitive Class AI
+- **Name:** Andreas M Simanullang
 - **Program:** IBM Advanced AI
 - **Mentor:** Mr. Agiss
 
