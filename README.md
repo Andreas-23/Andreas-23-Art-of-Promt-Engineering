@@ -1,7 +1,7 @@
 ---
 
 # The Art of Prompt Engineering
-![Prompt Engineering]([https://example.com/path/to/image](https://media.licdn.com/dms/image/D4D12AQGENqjZquyeYw/article-cover_image-shrink_720_1280/0/1695291902514?e=2147483647&v=beta&t=lM_zjsFP6nwKU0sDI_vV7YZdKgvE_qhjweJgcoZG2DE))
+![Prompt Engineering](https://media.licdn.com/dms/image/D4D12AQGENqjZquyeYw/article-cover_image-shrink_720_1280/0/1695291902514?e=2147483647&v=beta&t=lM_zjsFP6nwKU0sDI_vV7YZdKgvE_qhjweJgcoZG2DE)
 ## Introduction
 
 Welcome to "The Art of Prompt Engineering" repository! This project is a culmination of a mentorship assignment completed as part of the IBM Advanced AI @Infinite Learning course. The focus of this project is on exploring effective techniques for prompt engineering using Langchain.
